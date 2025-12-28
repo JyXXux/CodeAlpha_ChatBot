@@ -1,0 +1,11 @@
+
+--- New Chat Session ---
+jyotishka: hello
+Chatbot: Hi! 😊
+jyotishka: help
+jyotishka: how are you
+Chatbot: I'm fine, thanks!
+jyotishka: what is your name
+Chatbot: I am a rule-based chatbot.
+jyotishka: quit
+Chatbot: Goodbye, jyotishka! Have a great day 👋
